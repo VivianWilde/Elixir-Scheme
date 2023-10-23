@@ -1,4 +1,4 @@
-# Interpreter
+# Elixir-Scheme
 
 A simple Scheme interpreter made in Elixir. Supports primitives, as well as function and variable definitions (both standard and lambda syntax) and application, along with a few other neat features such as variadic lambdas.
 
