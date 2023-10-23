@@ -1,0 +1,3 @@
+%{
+  "gen_tree": {:hex, :gen_tree, "0.2.1", "f2ea92e698891f7d2d53befa2def9b7555a3f74663fd38267899b5ccb1d11b87", [:mix], [], "hexpm", "188a0fca6a31556c4731149b0691d604864a28a201dd3e3b3a13d152ecca9e16"},
+}
